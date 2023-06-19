@@ -10,8 +10,17 @@
 
 [http://synccart.wiki/](http://synccart.wiki/)
 
-  
-  
+
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React for the front-end user interface
+*   Redux store for state management
+*   Tailwind for efficient and scalable styling
+*   NodeJs and Express for the back-end API development
+*   MySQL for the database management
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
@@ -25,21 +34,26 @@ Here're some of the project's best features:
 *   manage product inventory
 *   elevate user privileges
 
-  
-  
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
-*   React for the front-end user interface
-*   Redux store for state management
-*   Tailwind for efficient and scalable styling
-*   NodeJs and Express for the back-end API development
-*   MySQL for the database management
 
 <h2>Project Screenshots</h2>
 
-<img src="https://atw-links.s3.us-west-1.amazonaws.com/tagteamup.png" alt="project-screenshot" width="800" >
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/admincontrolpanel.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/elevateprivileges.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/manageproductinventory.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/addressautosaveandpopulate.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/customerfeedback.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/productratingsinsight.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/retainshoppingcart.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/stockcontrolledshopping.png" alt="project-screenshot" width="800" >
+
+<img src="https://synccart-links.s3.us-west-1.amazonaws.com/stocksafeguard.png" alt="project-screenshot" width="800" >
 
 
 <h2>Conclusion</h2>
