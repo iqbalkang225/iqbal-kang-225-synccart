@@ -37,6 +37,10 @@ Technologies used in the project:
 *   NodeJs and Express for the back-end API development
 *   MySQL for the database management
 
+<h2>Project Screenshots</h2>
+
+<img src="https://atw-links.s3.us-west-1.amazonaws.com/tagteamup.png" alt="project-screenshot" width="800" >
+
 
 <h2>Conclusion</h2>
 While working on this project I faced some obstacles which allowed me to dive deeper into the complexities of web development and broaden my skill set. Along with creating reusable react components, I also learned how to develop endpoints for the back-end API, which enabled communication with the front-end user interface. Through this project, I gained a better understanding of full-stack development and how to incorporate SQL and databases into a larger project.
