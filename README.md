@@ -4,7 +4,9 @@
 <img  src="https://socialify.git.ci/iqbalkang225/iqbal-kang-225-synccart/image?language=1&name=1&owner=1&theme=Light" />
 </p>
 
-<p id="description">A paradise of nourishment; an oasis of vitality an elixir of health and wellness; a portal to a world of natural nutrition providing the power to unlock the boundless potential of your body and mind. This is a full-stack application designed to provide a practical learning experience and is built using both front-end and back-end development techniques. The primary goal was to gain a deeper understanding of web development and to create a functional and well-designed application from scratch.</p>
+<p id="description">A paradise of nourishment; an oasis of vitality an elixir of health and wellness; a portal to a world of natural nutrition providing the power to unlock the boundless potential of your body and mind. 
+  
+This is a full-stack application designed to provide a practical learning experience and is built using both front-end and back-end development techniques. The primary goal was to gain a deeper understanding of web development and to create a functional and well-designed application from scratch.</p>
 
 <h2>🚀 Hosted At</h2>
 
